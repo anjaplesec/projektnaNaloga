@@ -1,0 +1,16 @@
+Katero je glavno mesto Škotske?;Edinburg;Ljubljana;Berlin;
+Katera celina je najveèja?;Azija;Evropa;Afrika;
+Katera ja najvišja gora na svetu?;Mount Everest;K2;Kilimandžaro;
+Koliko èrk ima angleška abeceda?;26;24;25;
+Katera od držav ni èlanica EU?;Švica;Nemèija;Francija;
+Katera od naštetih rek je najdaljša?;Sava;Drava;Soèa;
+Koliko deliteljev ima število 15?;3;2;4;
+Kako je naslov slovenske himne?;Zdravljica;Na zdravje;Zdravica;
+Koliko je visok Triglav?;2864;2846;2866;
+Kateri mesec ima 31 dni?;julij;april;september;
+Katera barva ni osnovna?;zelena;modra;rdeèa;
+Katera reka teèe skozi Èeško?;Vltava;Ren;Nadiža;
+S èim se ukvarja otorionolaringolog?;Z boleznimi ustne votline;S preuèevanjem lasišèa;Z odpravljanjem želodènih težav;
+Koliko let naj bi nekadilci živeli dlje kot kadilci?;7 let; 10 let; Živeli naj bi enako;
+Koliko je 180 - 78 + 13?;115;103;210;
+13 + __ = 57?;44;38;52;
